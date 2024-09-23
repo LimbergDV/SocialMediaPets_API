@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "root",
+      "password": "v3lazqu3z", 
+      "database": "Test_ORM", 
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
